@@ -1,0 +1,28 @@
+{
+    "@@locale": "en",
+    "settings": "SETTINGS", 
+    "@settings": {
+        "description": "application configuration"
+    },
+    "language": "LANGUAGE", 
+    "english": "ENGLISH", 
+    "khmer": "KHMER", 
+    "bookmark": "BOOKMARK", 
+    "history": "HISTORY", 
+    "home": "HOME",
+    "search": "SEARCH FOR WORD",
+    "title": "JS DICTIONARY",
+    "about": "ABOUT",
+    "message": "CLOSE AND OPEN APP AGAIN TO MAKE CHANGE",
+    "cancel": "CANCEL", 
+    "ok": "OK",
+    "hello": "Hello {username}",
+    "@hello": {
+        "description": "welcome message", 
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    }
+}
